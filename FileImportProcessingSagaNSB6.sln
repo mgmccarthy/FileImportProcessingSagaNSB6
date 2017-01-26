@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C077EF71-4E8F-4350-A1A8-724FEB21385F}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileImportProcessingSagaNSB6.ConsoleClient", "FileImportProcessingSagaNSB6.ConsoleClient\FileImportProcessingSagaNSB6.ConsoleClient.csproj", "{B5A967CE-CA0F-4B76-BF65-4D07B8F38924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileImportProcessingSagaNSB6.Conventions", "FileImportProcessingSagaNSB6.Conventions\FileImportProcessingSagaNSB6.Conventions.csproj", "{7CB2FF0A-D9AB-4354-8E0C-669944CBFD07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileImportProcessingSagaNSB6.FileImportInsertionEndpoint", "FileImportProcessingSagaNSB6.FileImportInsertionEndpoint\FileImportProcessingSagaNSB6.FileImportInsertionEndpoint.csproj", "{DE107176-D369-4FA5-B9FC-CC8F17E8EEA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileImportProcessingSagaNSB6.Messages", "FileImportProcessingSagaNSB6.Messages\FileImportProcessingSagaNSB6.Messages.csproj", "{329E7C55-AEED-4A9B-8EEA-6027A85570B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileImportProcessingSagaNSB6.SagaEndpoint", "FileImportProcessingSagaNSB6.SagaEndpoint\FileImportProcessingSagaNSB6.SagaEndpoint.csproj", "{B3C661CF-5E8E-4F76-8EBE-5936484A4A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5A967CE-CA0F-4B76-BF65-4D07B8F38924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A967CE-CA0F-4B76-BF65-4D07B8F38924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A967CE-CA0F-4B76-BF65-4D07B8F38924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A967CE-CA0F-4B76-BF65-4D07B8F38924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CB2FF0A-D9AB-4354-8E0C-669944CBFD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB2FF0A-D9AB-4354-8E0C-669944CBFD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB2FF0A-D9AB-4354-8E0C-669944CBFD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB2FF0A-D9AB-4354-8E0C-669944CBFD07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE107176-D369-4FA5-B9FC-CC8F17E8EEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE107176-D369-4FA5-B9FC-CC8F17E8EEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE107176-D369-4FA5-B9FC-CC8F17E8EEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE107176-D369-4FA5-B9FC-CC8F17E8EEA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329E7C55-AEED-4A9B-8EEA-6027A85570B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329E7C55-AEED-4A9B-8EEA-6027A85570B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329E7C55-AEED-4A9B-8EEA-6027A85570B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329E7C55-AEED-4A9B-8EEA-6027A85570B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C661CF-5E8E-4F76-8EBE-5936484A4A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C661CF-5E8E-4F76-8EBE-5936484A4A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C661CF-5E8E-4F76-8EBE-5936484A4A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C661CF-5E8E-4F76-8EBE-5936484A4A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
